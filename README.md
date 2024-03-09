@@ -1,5 +1,4 @@
-# SubMAN
-Subscription Manager Desktop App
+# SubMAN Desktop App
 Welcome to the SubMAN Desktop App! This application helps you keep track of your various subscriptions, ensuring you stay on top of payments and manage your expenses effectively.
 
 ## Features
