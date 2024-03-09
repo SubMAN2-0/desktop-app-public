@@ -23,4 +23,4 @@ Upon launching the app, you'll be greeted with a user-friendly interface where y
 4. Receive Reminders: Keep an eye out for reminders about upcoming subscription renewals.
 
 ## Support
-If you encounter any issues or have any questions about the app, please don't hesitate to reach out to us. You can contact our support team at [support@subman.app](support@subman.app).
+If you encounter any issues or have any questions about the app, please don't hesitate to reach out to us. You can contact our support team at support@subman.app.
